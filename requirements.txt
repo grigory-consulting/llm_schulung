@@ -1,0 +1,8 @@
+torch
+torchvision
+pandas # für Tabellen
+numpy # für Matrizen
+matplotlib # Visualisierung
+dataclasses
+transformers
+tiktoken
